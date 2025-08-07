@@ -1,6 +1,12 @@
 {
   "version": 2,
   "name": "villa-one-six",
+  "builds": [
+    {
+      "src": "**/*",
+      "use": "@vercel/static"
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
