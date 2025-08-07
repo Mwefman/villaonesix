@@ -1,0 +1,24 @@
+{
+  "name": "villa-one-six",
+  "version": "1.0.0",
+  "description": "Villa One Six Record Label Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'Static site - no build needed'",
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "record-label",
+    "music",
+    "villa-one-six",
+    "electronic-music"
+  ],
+  "author": "Villa One Six",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/villaonesix/website.git"
+  },
+  "homepage": "https://villaonesix.com"
+}
